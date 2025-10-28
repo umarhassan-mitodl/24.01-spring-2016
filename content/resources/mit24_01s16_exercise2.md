@@ -5,8 +5,6 @@ description: Instructions and questions for an exercise focusing on Aristotle's 
 file: /courses/24-01-classics-of-western-philosophy-spring-2016/04c20e031d0252be92086b21bcb2425a_MIT24_01S16_Exercise2.pdf
 file_size: 95176
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

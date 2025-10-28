@@ -5,8 +5,6 @@ description: Instructions and a writing prompt for a short essay about a passage
 file: /courses/24-01-classics-of-western-philosophy-spring-2016/760bc81350d1b848fde571c05248d786_MIT24_01S16_Exercise1.pdf
 file_size: 91180
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
